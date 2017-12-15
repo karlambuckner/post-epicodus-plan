@@ -4,6 +4,10 @@
 
 #### By _**Karla Buckner**_
 
+## Description
+
+_Following Epicodus, I'll need a solid plan for staying active in the tech community and enhancing my programming skills. Below I have rated tasks by high, medium and low priority for what I need to work on after graduating. My top priorities steer me more towards a career, whereas my medium and low priorities are more self-learning/improvement and involvement in the tech community. I am excited about what the future holds but I'll have to be proactive and get to work to reach my goals._
+
 ## My Top Priorities...
 
 _The following are top priorities because they will help me get closer to landing a career for myself. They will assist me in feeling more confident in what I've learned and add to the skills I bring to the table._
@@ -15,7 +19,6 @@ _The following are top priorities because they will help me get closer to landin
 
 ## Medium Priorities...
 
-* _(6) Clean up my github and add READMEs to my repos_
 * _(8) Continue going to tech meet-ups, especially the monthly Ruby Brigade Meet-up_
 * _(8) Make more LinkedIn connections with people I meet networking at meet-ups and events_
 * _(8) Reach out to people I've connected with on LinkedIn for advice/opportunities_
@@ -30,6 +33,7 @@ _The following are top priorities because they will help me get closer to landin
 
 ## Low Priorities...
 
+* _(6) Clean up my github and add READMEs to my repos_
 * _(6) Research other tech companies in Portland_
 * _(6) Attend a Demo Day session at Epicodus if looking for work_
 * _(6) Finish reading Cracking the Coding Interview_
