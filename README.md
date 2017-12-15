@@ -6,6 +6,8 @@
 
 ## My Top Priorities...
 
+_The following are top priorities because they will help me get closer to landing a career for myself. They will assist me in feeling more confident in what I've learned and add to the skills I bring to the table._
+
 * _Practice more white board problems and algorithms especially JavaScript loops_
 * _Job hunt and apply to jobs, getting more experience interviewing_
 * _Finish my portfolio site and make it more visually appealing by styling with CSS and jQuery_
@@ -13,25 +15,25 @@
 
 ## Medium Priorities...
 
-* _Clean up my github and add READMEs to my repos_
-* _Continue going to tech meet-ups, especially the monthly Ruby Brigade Meet-up_
-* _Make more LinkedIn connections with people I meet networking at meet-ups and events_
-* _Practice the interview process more with a friend to get more confident about answering questions_
-* _Go back through Learnhowtoprogram and study terminology and practice old material that I need a refresher on_
-* _Learn the basics of React and apply them to a site I've made_
-* _Continue building on my Capstone site making it as real-world as possible_
-* _Find a pod-cast, blog, news resource for keeping up with the tech community_
-* _Reach out to people I've connected with on LinkedIn for advice/opportunities_
-* _Volunteer for maybe WIT, ChickTech or other companies_
-* _Keep in touch with my internship company if not hired on_
-* _Keep in touch with my Epicodus classmates and what projects they are working on or companies they are working for_
+* _(6) Clean up my github and add READMEs to my repos_
+* _(8) Continue going to tech meet-ups, especially the monthly Ruby Brigade Meet-up_
+* _(8) Make more LinkedIn connections with people I meet networking at meet-ups and events_
+* _(8) Reach out to people I've connected with on LinkedIn for advice/opportunities_
+* _(8) Keep in touch with my internship company if not hired on_
+* _(7) Practice the interview process more with a friend to get more confident about answering questions_
+* _(7) Go back through Learnhowtoprogram and study terminology and practice old material that I need a refresher on_
+* _(7) Learn the basics of React and apply them to a site I've made_
+* _(7) Continue building on my Capstone site making it as real-world as possible_
+* _(7) Find a podcast, blog, news resource for keeping up with the tech community_
+* _(7) Volunteer for maybe WIT, ChickTech or other companies_
+* _(7) Keep in touch with my Epicodus classmates and what projects they are working on or companies they are working for_
 
 ## Low Priorities...
 
-* _Research other tech companies in Portland_
-* _Utilize my programming friend group to do office visits and informational interviews about the companies they work for_
-* _Attend a Demo Day session at Epicodus if looking for work_
-* _Finish reading Cracking the Coding Interview_
+* _(6) Research other tech companies in Portland_
+* _(6) Attend a Demo Day session at Epicodus if looking for work_
+* _(6) Finish reading Cracking the Coding Interview_
+* _(5) Utilize my programming friend group to do office visits and informational interviews about the companies they work for_
 
 ### License
 
