@@ -6,16 +6,16 @@
 
 ## Description
 
-_Following Epicodus, I'll need a solid plan for staying active in the tech community and enhancing my programming skills. Below I have rated tasks by high, medium and low priority for what I need to work on after graduating. My top priorities steer me more towards a career, whereas my medium and low priorities are more self-learning/improvement and involvement in the tech community. I am excited about what the future holds but I'll have to be proactive and get to work to reach my goals._
+_Following Epicodus, I'll need a solid plan for staying active in the tech community and enhancing my programming skills. Below I have rated tasks by high, medium and low priority (and also a 1-10 scale of importance) for what I need to work on after graduating. My top priorities steer me more towards a career, whereas my medium and low priorities are more self-learning/improvement and involvement in the tech community. I am excited about what the future holds but I'll have to be proactive and get to work to reach my goals._
 
 ## My Top Priorities...
 
 _The following are top priorities because they will help me get closer to landing a career for myself. They will assist me in feeling more confident in what I've learned and add to the skills I bring to the table._
 
-* _Practice more white board problems and algorithms especially JavaScript loops_
-* _Job hunt and apply to jobs, getting more experience interviewing_
-* _Finish my portfolio site and make it more visually appealing by styling with CSS and jQuery_
-* _Perhaps take part in some informational interviews to find out more about a company I'm interested in_
+* _(10) Practice more white board problems and algorithms especially JavaScript loops_
+* _(10) Job hunt and apply to jobs, getting more experience interviewing_
+* _(9) Finish my portfolio site and make it more visually appealing by styling with CSS and jQuery_
+* _(9) Take part in some informational interviews to find out more about a company I'm interested in_
 
 ## Medium Priorities...
 
