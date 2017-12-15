@@ -17,11 +17,15 @@
 * _Job hunt and look apply to jobs, getting more experience interviewing_
 * _Learn the basics of React and apply them to a site I've made_
 * _Continue building on my Capstone site making it as real-world as possible_
-
-
-
-
-
+* _Find a pod-cast, blog, news resource for keeping up with the tech community_
+* _Research other tech companies in Portland_
+* _Reach out to people I've connected with on LinkedIn for advice/opportunities_
+* _Perhaps take part in some informational interviews to find out more about a company I'm interested in_
+* _Volunteer for maybe WIT, ChickTech or other companies_
+* _Utilize my programming friend group to do office visits and informational interviews about the companies they work for_
+* _Keep in touch with my internship company_
+* _Keep in touch with my Epicodus classmates and what projects they are working on or companies they are working for_
+* _Attend a Demo Day session at Epicodus if looking for work_
 
 ### License
 
